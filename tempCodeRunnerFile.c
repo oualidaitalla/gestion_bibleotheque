@@ -1,0 +1,1 @@
+          Lire_Enligne(l, "file.txt
