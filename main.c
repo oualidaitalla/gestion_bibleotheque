@@ -20,7 +20,7 @@ int main(){
                 printf("\t\t******************1 : Decouvrir nouveau livres en appuyant sur: 1****************** \n");
                 printf("\t\t  ****************2 : Cherecher un livre par titre ou ISBN    : 2**************** \n");
                 printf("\t\t    **************3 :            Demander un livre            : 3************** \n");
-                printf("\t\t      ************4 :          Lire le livre enligne          : 4************ \n");
+                printf("\t\t      ************4 :          Lire un livre enligne          : 4************ \n");
                 printf("\t\t         *********5 :            Empunter un livre            : 5********** \n");
                 printf("\t\t             ********************************************************** \n");
                 printf("\t\t              >>>>>>>>>>>>>>>>>Saisir Votre choix<<<<<<<<<<<<<<<<<<<<<\n");
@@ -44,8 +44,8 @@ int main(){
                 printf("\t\t\t\t\t\t    *Les operation sur votre bibleotheque mondial* \n");
                 printf("\t\t\t\t\t       ****       1 :     Ajouter  un livre    :1          ****\n");
                 printf("\t\t\t\t\t      ****        2 :    supprimer  un livre   :2           ****\n");
-                printf("\t\t\t\t\t      ****        3 : Modifier info d'un livre :3           ****\n");
-                printf("\t\t\t\t\t       ****       4 : Voir les livre empruntee :4          ****\n");
+                printf("\t\t\t\t\t      ****        3 : Modifier infos d'un livre :3           ****\n");
+                printf("\t\t\t\t\t       ****       4 : Voir les livres empruntée :4          ****\n");
                 printf("\t\t\t\t\t<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>\n");
                 printf("\t\t\t\t\t          votre operation est :");
                 scanf("%d", &choix);
